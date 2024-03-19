@@ -1,1 +1,1 @@
-GPL
+GPLv3
